@@ -1,0 +1,16 @@
+{
+   "devDependencies": {
+      "webpack": "^5.76.1",
+      "webpack-cli": "^4.10.0"
+   },
+   "dependencies": {
+      "gsap": "^3.11.4",
+      "three": "^0.149.0",
+      "yuka": "^0.7.8"
+   },
+   "browser": {
+      "fs": false,
+      "os": false,
+      "path": false
+   }
+}
